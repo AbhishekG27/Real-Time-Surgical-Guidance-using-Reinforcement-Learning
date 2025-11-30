@@ -1,0 +1,8 @@
+- agent=ddpg
+- task=NeedleGrasp-Traj-v0
+- seed=1
+- device=cpu
+- ckpt_dir=exp_local/NeedleGrasp-Traj-v0/DDPG/d0/s1/model
+- ckpt_episode=best
+- n_eval_episodes=1
+- use_wb=False

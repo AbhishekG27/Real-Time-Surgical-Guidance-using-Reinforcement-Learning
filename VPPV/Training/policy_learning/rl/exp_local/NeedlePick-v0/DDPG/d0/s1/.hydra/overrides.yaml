@@ -1,0 +1,3 @@
+- agent=ddpg
+- task=NeedlePick-v0
+- seed=1

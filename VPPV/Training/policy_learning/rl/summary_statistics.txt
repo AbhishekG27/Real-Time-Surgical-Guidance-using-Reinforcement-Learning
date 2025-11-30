@@ -1,0 +1,8 @@
+============================================================
+Training Summary Statistics
+============================================================
+
+      Algorithm Final Success Rate Max Success Rate  Total Episodes
+DDPG (Baseline)              0.900            1.000             200
+    Double DDPG              0.800            1.000              90
+      Dual DDPG              0.700            1.000              85
