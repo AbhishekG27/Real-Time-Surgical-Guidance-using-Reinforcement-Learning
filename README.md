@@ -74,7 +74,7 @@ All algorithms successfully learn the task, with DDPG and Double DDPG achieving 
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/AbhishekG27/Real-Time-Surgical-Guidance-using-Reinforcement-Learning>
 cd SurRoL-SR-VPPV/VPPV/Training/policy_learning/rl
 ```
 
@@ -404,9 +404,9 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{surrol_rl_implementation,
   title = {Deep Reinforcement Learning for Surgical Robot Control},
-  author = {Your Name},
+  author = {AbhishekG, Aastha Basu, Aditya Ravidas},
   year = {2025},
-  url = {https://github.com/your-repo}
+  url = {[https://github.com/your-repo](https://github.com/AbhishekG27/Real-Time-Surgical-Guidance-using-Reinforcement-Learning}
 }
 ```
 
