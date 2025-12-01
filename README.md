@@ -74,7 +74,7 @@ All algorithms successfully learn the task, with DDPG and Double DDPG achieving 
 ### 1. Clone the Repository
 
 ```bash
-git clone <[repository-url](https://github.com/AbhishekG27/Real-Time-Surgical-Guidance-using-Reinforcement-Learning>
+git clone <https://github.com/AbhishekG27/Real-Time-Surgical-Guidance-using-Reinforcement-Learning>
 cd SurRoL-SR-VPPV/VPPV/Training/policy_learning/rl
 ```
 
